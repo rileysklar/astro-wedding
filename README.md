@@ -1,4 +1,55 @@
-# 🚀 AstroWind
+# 💍 Riley & Andie's Wedding Website 💍
+
+Welcome to the repository for Riley Sklar and Andie Goc's wedding website. This site is built using the Astro framework, aiming to celebrate our big day in 2025 in New Mexico with our friends and family.
+
+## 🚀 Getting Started
+
+To get started with the project, ensure you have Node.js installed on your machine. Then, clone this repository and install the dependencies.
+
+```
+git clone https://your-repository-url.git
+cd wedding-website
+npm install
+```
+
+## 🔧 Project Setup
+
+This project is structured to be simple yet functional, following the best practices of the Astro framework. The main components and pages are organized as follows:
+
+- `src/pages`: Contains all the website pages such as Home, Our Story, Event Details, RSVP, FAQ, and more.
+- `src/components`: Reusable components like Header, Footer, RSVPForm, FAQAccordion, and WeatherWidget.
+- `public/assets`: Static assets such as images, icons, and stylesheets.
+
+## 🛠️ Development
+
+To start the development server, run:
+
+```
+npm run dev
+```
+
+Navigate to `http://localhost:3000` to see the site in action.
+
+## 🌐 Deployment
+
+This site is ready to be deployed with your preferred hosting service (Vercel, Netlify, GitHub Pages, etc.). Follow the hosting service's instructions for deploying an Astro project.
+
+```
+npm run build
+```
+
+## 📚 Resources
+
+- [Astro Documentation](https://docs.astro.build)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+
+## 💬 Contact
+
+For any questions or contributions to the project, please reach out to us:
+
+- Riley Sklar [Portfolio](https://rileysklar.io)
+
+---
 
 <img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
      alt="AstroWind Lighthouse Score" width="100" height="358">
